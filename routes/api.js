@@ -30,5 +30,16 @@ router.get("/api/transaction", (req, res) => {
       res.status(404).json(err);
     });
 });
-
+//DELETE route to be able to remove data from database with insomnia
+router.delete("/api/transaction", (req, res) => {
+  Transaction.remove({})
+  .then(response => {
+    console.log(response)
+    res.json();
+  })
+  .catch(err => {
+    console.log(err)
+    res.status(404).json(err);
+  });
+});
 module.exports = router;

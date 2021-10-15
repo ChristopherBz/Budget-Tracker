@@ -1,5 +1,5 @@
 # Budget-Tracker
-![image](https://user-images.githubusercontent.com/81110745/136871315-40a9bf38-d016-4369-b10f-9d3a151e2e90.png)
+![image](https://user-images.githubusercontent.com/81110745/137415622-eec9e2db-0a1b-410a-bb50-beebcdb82f81.png)
 Find the deployed application here: https://serene-fjord-10744.herokuapp.com/
 
 ## Description
@@ -15,7 +15,7 @@ A workout tracker using a Mongo database with a Mongoose schema and handling rou
 - [Questions](#Contact-Information)  
 
 ### Demo
-![Screenshot](https://github.com/ChristopherBz/Workout-Tracker/blob/9a74ec0e20445eb43e2fc697f053e610d0912e3b/assets/Fitness%20tracker.gif)
+![Screenshot](https://github.com/ChristopherBz/Budget-Tracker/blob/b80409cc8ceaeebf58f9fa8a3274e86bb236ffa9/assets/Budget%20Tracker.gif)
 
 ### Deployed
 Find the deployed application here: https://serene-fjord-10744.herokuapp.com/
@@ -27,7 +27,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 To clone the repo:
 ```
-git git@github.com:ChristopherBz/Workout-Tracker.git
+git git@github.com:ChristopherBz/Budget-Tracker.git
 ``` 
 Run 'npm install' to install dependencies  
 Run 'Mongod' in the local terminal
@@ -35,21 +35,16 @@ Run "npm start"
 
 ## Technology
 
-JavaScript
-
-Node.JS
-
-Express.JS
-
-MongoDB
-
-Dotenv
-
-Mongoose
-
-Morgan
-
-MongoDB Atlas (Cloud)
+JavaScript  
+Node.JS  
+Express.JS  
+MongoDB  
+Dotenv  
+Service Worker  
+Web Manifest  
+Mongoose  
+Morgan  
+MongoDB Atlas (Cloud)  
 
 ## License
 

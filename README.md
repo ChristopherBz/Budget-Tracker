@@ -1,5 +1,5 @@
 # Budget-Tracker
-![image](https://user-images.githubusercontent.com/81110745/137415622-eec9e2db-0a1b-410a-bb50-beebcdb82f81.png)
+![image](https://user-images.githubusercontent.com/81110745/137415622-eec9e2db-0a1b-410a-bb50-beebcdb82f81.png)  
 Find the deployed application here: https://serene-fjord-10744.herokuapp.com/
 
 ## Description
